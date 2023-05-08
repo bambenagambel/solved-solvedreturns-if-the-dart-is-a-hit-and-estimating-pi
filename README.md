@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedreturns-if-the-dart-is-a-hit-and-estimating-pi
+<br>
+About the Program: Defines the Dart type. Constructs a dart using random numbers Returns if the dart is a hit Estimating PI with random numbers. Prints the current estimate of PI after each “set” of 10000 trials. Returns the current estimate of PI. trials The number of trials performed so far. hits The number of hits so far. Cannot be greater than trials. return double estimate of PI. Uses the percent difference formula to find the percent difference between an estimate of PI and Math.PI. pi estimate of PI. return double percent difference
